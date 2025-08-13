@@ -1,4 +1,5 @@
  Practică anul 2 Calculatoare - Vara 2025
+ 
 Partea scrisa a proiectului
 Tema
 Analiza problemei
